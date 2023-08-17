@@ -17,6 +17,7 @@
 		646DC61C2A8E2FAA0086F578 /* CircleGroupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 646DC61B2A8E2FAA0086F578 /* CircleGroupView.swift */; };
 		646DC61E2A8E50080086F578 /* AudioPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 646DC61D2A8E50080086F578 /* AudioPlayer.swift */; };
 		646DC61F2A8E52350086F578 /* success.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 641A82C22A8E24DA0075A9D9 /* success.m4a */; };
+		646DC6202A8E554C0086F578 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 641A82C72A8E26D60075A9D9 /* Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -180,6 +181,7 @@
 				646DC61F2A8E52350086F578 /* success.m4a in Resources */,
 				641A82C12A8E24C80075A9D9 /* chimeup.mp3 in Resources */,
 				641A82BA2A8E24370075A9D9 /* Preview Assets.xcassets in Resources */,
+				646DC6202A8E554C0086F578 /* Info.plist in Resources */,
 				641A82B72A8E24370075A9D9 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
